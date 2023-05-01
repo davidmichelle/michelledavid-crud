@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/michelledavid-crud/static/css/main.1a14e097.css",
+    "main.js": "/michelledavid-crud/static/js/main.7eb39556.js",
+    "static/js/787.5987f9c7.chunk.js": "/michelledavid-crud/static/js/787.5987f9c7.chunk.js",
+    "static/media/gif": "/michelledavid-crud/static/media/4a0ca034f88dedc9fb49ea846476198a.30f9d5385808c5a6cabe.gif",
+    "index.html": "/michelledavid-crud/index.html",
+    "main.1a14e097.css.map": "/michelledavid-crud/static/css/main.1a14e097.css.map",
+    "main.7eb39556.js.map": "/michelledavid-crud/static/js/main.7eb39556.js.map",
+    "787.5987f9c7.chunk.js.map": "/michelledavid-crud/static/js/787.5987f9c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a14e097.css",
+    "static/js/main.7eb39556.js"
+  ]
+}
