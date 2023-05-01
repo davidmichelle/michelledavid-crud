@@ -1,0 +1,63 @@
+.header {
+    overflow: hidden;
+    background-color: #175974;
+
+}
+
+.header p {
+    float: left;
+    color: rgb(33, 190, 169);
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 15px;
+    border-radius: 4px;
+    font-weight: bold;
+    box-shadow: 0 0 20px rgb(84, 146, 148);
+
+}
+
+.inputField {
+    width: 40% !important;
+    padding: 1px;
+    margin-top: 5px;
+    margin-right: 6px;
+    border: none;
+    font-size: 18px;
+}
+
+.header p.logo {
+    font-size: 30px;
+    font-weight: bold;
+    color: #c0c255;
+
+}
+
+
+.header p:hover {
+    background-color: rgb(235, 208, 235);
+    color: #44151c;
+
+}
+
+.header p.active {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.header-right {
+    float: right;
+}
+
+@media screen and (max-width : 500px) {
+    .header p {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+
+    .header-right{
+        float: none;
+    }
+}
